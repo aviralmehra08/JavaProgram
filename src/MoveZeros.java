@@ -20,7 +20,7 @@ public class MoveZeros
     public static void main(String args[])
     {
         MoveZeros m=new MoveZeros();
-        int nums[]={0};
+        int nums[]={1,2,3,0,4,5};
         m.movezeros(nums);
         System.out.println(Arrays.toString(nums));
     }    
