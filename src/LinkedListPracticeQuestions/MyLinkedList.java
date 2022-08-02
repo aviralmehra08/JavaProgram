@@ -1,5 +1,4 @@
 package LinkedListPracticeQuestions;
-
 public class MyLinkedList
 {
     public class Node
